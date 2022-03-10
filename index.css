@@ -1,6 +1,7 @@
 body {
     background-image: url("counter.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
     font-family: monospace;
     font-weight: bold;
     text-align: center;
